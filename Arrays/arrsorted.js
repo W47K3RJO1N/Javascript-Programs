@@ -8,4 +8,4 @@ for (let i = 0; i < arr.length - 1; i++) {
     }
 }
 
-console.log(isSorted ? "Sorted" : "Not Sorted");
+console.lod(isSorted ? "Sorted" : "Not Sorted");
