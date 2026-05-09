@@ -5,4 +5,4 @@ for (let num of arr) {
   if (num % 2 === 0) count++;
 }
 
-console.log(count);
+console.log(count)
